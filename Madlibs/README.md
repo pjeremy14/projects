@@ -1,2 +1,2 @@
-Jeremy Palad
-This folder contains the madlibs file created by the author
++ Jeremy Palad
++ This folder contains the madlibs file created by the author
